@@ -1,5 +1,3 @@
-require 'pry'
-
 class Queens
   attr_accessor :white, :black
 
